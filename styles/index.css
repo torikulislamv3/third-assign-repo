@@ -1,8 +1,30 @@
 .manrope-font{
     font-family: "Manrope", sans-serif;
 }
-/* .bonus-sec { */
-    position: relative;
-    margin-top: -180px;
-    margin-left: 850px;
+.row-one {
+    background: url('/Images/2.png' );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 600px;
+    
+}
+
+.row-two{
+    background: url('/Images/3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 600px;
+}
+
+.single {
+    background: url('/Images/4.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
 }
