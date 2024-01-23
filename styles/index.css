@@ -91,5 +91,11 @@
        
     }
 
+    @media screen and (min-width:1024px) {
+        .unir {
+            margin-left: -208px;
+        }
+    }
+
    
  
