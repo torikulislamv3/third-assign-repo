@@ -28,3 +28,9 @@
     height: 350px;
     width: 100%;
 }
+.card-done {
+    
+    border: 1px solid rgb(235, 217, 217);
+    background-color: rgb(253, 254, 255);
+    border-radius: 12px;
+}
