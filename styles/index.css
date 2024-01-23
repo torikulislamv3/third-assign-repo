@@ -61,3 +61,35 @@
     border: 1px solid gray;
     border: 0;
 }
+
+
+/* responsive css */
+
+@media screen and (max-width:640px) {
+    body {
+        width: 100%;
+    }
+    .single {
+        width: 600px;
+    }
+    .tit {
+        padding-top: 100px;
+    }
+    #textarea{
+        margin-left: 220px;
+        width: 400px;
+    }
+    .unir{
+        margin-left: 10px;
+        width: 400px;
+
+    }
+       
+    }
+
+    .bonus-sec {
+        margin: 0;
+    }
+
+    
+}
