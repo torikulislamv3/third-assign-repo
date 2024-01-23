@@ -84,12 +84,13 @@
         width: 400px;
 
     }
+    .bonus-sec {
+        margin-left: 0rem;
+        margin-top: 0rem;
+    }
+
        
     }
 
-    .bonus-sec {
-        margin: 0;
-    }
-
-    
-}
+   
+ 
