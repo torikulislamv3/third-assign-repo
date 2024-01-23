@@ -87,15 +87,14 @@
     .bonus-sec {
        display: none;
     }
+    .unir-b {
+            display: none;
+            
+    }
 
        
     }
 
-    @media screen and (min-width:1024px) {
-        .unir {
-            margin-left: -208px;
-        }
-    }
-
+    
    
  
