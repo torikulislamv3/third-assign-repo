@@ -91,6 +91,22 @@
             display: none;
             
     }
+    .aside-f {
+        padding-left: 90px;
+    }
+    .norcor {
+        position: relative;
+      padding-left:220px ;  
+    }
+
+    .coooc {
+        position: absolute;
+        padding-top: 220px;
+    }
+
+    .lst {
+        padding-left: 100px;
+    }
 
        
     }
