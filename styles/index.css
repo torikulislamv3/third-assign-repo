@@ -69,8 +69,14 @@
     body {
         width: 100%;
     }
+    .row-one{
+        width: 100%;
+    }
+    .row-two{
+        width: 100%;
+    }
     .single {
-        width: 600px;
+        width: 100%;
     }
     .tit {
         padding-top: 100px;
