@@ -78,6 +78,13 @@
     .single {
         width: 100%;
     }
+    .single > h2 {
+        margin-top: 70px;
+        margin-bottom: 0;
+    }
+    .single > p {
+        
+    }
     .tit {
         padding-top: 100px;
     }
